@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background: #E5E5E5;
+}
+
+a{
+    text-decoration: none;
+}
+
+.symble-yoga {
+    display: block;
+    margin: 195px auto 122px auto;
+}
+
+input {
+   width: 321px;
+    height: 46px;
+    display: block;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border-radius: 10px;
+    border: none;
+    margin: 0 auto;
+}
+
+input::placeholder{
+    padding-left: 19px;
+}
+
+.input-password{
+    margin-top: 21px;
+}
+
+.link-forgot-password{
+    display: block;
+    text-align: right;
+    margin: 25px 59px 38px 0;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+}
+
+button {
+    display: block;
+    margin: 0 auto 21px auto;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border-radius: 10px;
+    width: 133px;
+    height: 46px;
+    border: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+}
+
+.link-signup {
+    display: block;
+    text-align: center;
+    margin-bottom: 62px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+}
+
+strong {
+    color: #323232;
+}
+
+    .or-paragrahp {
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 18px;
+    }
+
+.conteiner{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.link-img{
+    margin-left: 16px;
+    margin-right: 16px;
+}
